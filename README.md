@@ -37,7 +37,6 @@ The traing loss as shown below:
 
 ![image](https://user-images.githubusercontent.com/33034362/226270792-3609a560-9feb-4a03-b925-c76e113f2f73.png)
 
-The weights after training has also upload in this repository
 
 And the prediction sample as show below:
 
@@ -63,7 +62,8 @@ possible reason:
 not enough training data (only 400 training data was used)
 
 Step 2. Track and count real-time 
-Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
+1. Train and transform the darknet weights into tensorflow tf file
+2. Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
 
 Running environment
 Local computer
