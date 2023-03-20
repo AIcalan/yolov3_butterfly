@@ -56,7 +56,7 @@ Code for generate result video
 
 
 Still to improve:
-identify though sometime can only identify one butterfly in a goup of butterflies
+sometime can only identify one butterfly in a goup of butterflies
 
 possible reason:  
 not enough training data (only 400 training data was used)
