@@ -50,9 +50,13 @@ And the prediction sample as show below:
 
 Result:
 1. Successfully object detection on the video to detect the butterfly show in result.avi in this repository
+
 Code for generate result video
+
 !./darknet detector demo data/obj.data cfg/yolov3-custom.cfg /mydrive/yolov3/backup/yolov3-custom_last.weights /mydrive/yolov3/video_1.mp4 -out_filename /mydrive/yolov3/results.avi -thresh 0.7
-issue:
+
+
+Still to improve:
 identify though sometime can only identify one butterfly in a goup of butterflies
 
 possible reason:  
