@@ -30,7 +30,7 @@ Running environment
 1. Google Colab
 2. Local computer
 
-Steps:
+Steps 1:
 1. Train a existing real-time object detection algorithm(YOLOv3) using custom dataset
 After labeling and the custom train data 
 The traing loss as shown below:
@@ -44,7 +44,6 @@ And the prediction sample as show below:
 
 
 
-2. Track and count real-time 
 
 
 Result:
@@ -55,7 +54,8 @@ identify though sometime can only identify one butterfly in a goup of butterflie
 possible reason:  
 not enough training data (only 400 training data was used)
 
-2. Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
+Step 2. Track and count real-time 
+Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
 possible reason:
 1. hardware issue without required plugin
 
