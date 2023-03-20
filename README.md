@@ -72,9 +72,7 @@ possible reason:
 1. hardware issue without required plugin for media
 
 
-TO DO:
-Count at any time 
-record in and out time of butterfly 
+
 
 
 
