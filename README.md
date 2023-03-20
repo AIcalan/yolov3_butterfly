@@ -66,6 +66,7 @@ Step 2. Track and count real-time
 2. Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
 
 Running environment
+
 Local computer
 
 possible reason:
