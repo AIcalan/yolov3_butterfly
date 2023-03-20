@@ -37,6 +37,8 @@ The traing loss as shown below:
 
 ![image](https://user-images.githubusercontent.com/33034362/226270792-3609a560-9feb-4a03-b925-c76e113f2f73.png)
 
+The weights after training has also upload in this repository
+
 And the prediction sample as show below:
 
 ![prediction_test_1](https://user-images.githubusercontent.com/33034362/226271331-537b266a-46e9-4c65-bdde-39cddb910ff7.png)
