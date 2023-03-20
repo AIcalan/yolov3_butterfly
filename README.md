@@ -28,7 +28,7 @@ Tensorflow
 
 Running environment
 1. Google Colab
-2. Local computer
+
 
 Steps 1:
 1. Train a existing real-time object detection algorithm(YOLOv3) using custom dataset
@@ -50,6 +50,8 @@ And the prediction sample as show below:
 
 Result:
 1. Successfully object detection on the video to detect the butterfly show in result.avi in this repository
+Code for generate result video
+!./darknet detector demo data/obj.data cfg/yolov3-custom.cfg /mydrive/yolov3/backup/yolov3-custom_last.weights /mydrive/yolov3/video_1.mp4 -out_filename /mydrive/yolov3/results.avi -thresh 0.7
 issue:
 identify though sometime can only identify one butterfly in a goup of butterflies
 
@@ -58,8 +60,12 @@ not enough training data (only 400 training data was used)
 
 Step 2. Track and count real-time 
 Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
+
+Running environment
+Local computer
+
 possible reason:
-1. hardware issue without required plugin
+1. hardware issue without required plugin for media
 
 
 TO DO:
