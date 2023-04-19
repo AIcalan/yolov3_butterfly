@@ -61,16 +61,7 @@ sometime can only identify one butterfly in a goup of butterflies
 possible reason:  
 not enough training data (only 400 training data was used)
 
-Step 2. Track and count real-time 
-1. Train and transform the darknet weights into tensorflow tf file
-2. Tracking with Deep SORT and Tensorflow can run but not able to generate result video. 
 
-Running environment
-
-Local computer
-
-possible reason:
-1. hardware issue without required plugin for media
 
 
 
