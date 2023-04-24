@@ -23,8 +23,7 @@ No of photo used:
 Package and modules used
 YOLOv3
 Darknet(https://github.com/AlexeyAB/darknet)
-Deep SORT(https://github.com/theAIGuysCode/yolov3_deepsort) 
-Tensorflow
+
 
 Running environment
 1. Google Colab
